@@ -1,10 +1,11 @@
-@baseUrl = https://8080-marcoweb-j2projetomodel-wsvoib82jkw.ws-us110.gitpod.io
+@baseUrl = https://8080-marcoweb-apiprojetomode-ztftwwgsz8c.ws-us110.gitpod.io
 
 ###
 GET {{baseUrl}}/categorias
 
 ###
 POST {{baseUrl}}/categorias
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBUEkgUXVpenplcyIsInN1YiI6InVzZXIiLCJleHAiOjE3MTU1NzA3OTV9.If1_Mghchirks5IloPefvBM4sMW4Z_JMaj3ie6_RwNk
 Content-Type: application/json
 
 {

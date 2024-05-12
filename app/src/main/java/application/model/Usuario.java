@@ -37,5 +37,4 @@ public class Usuario {
         this.senha = senha;
     }
 
-    
 }

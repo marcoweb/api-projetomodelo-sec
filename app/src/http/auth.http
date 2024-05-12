@@ -1,0 +1,10 @@
+@baseUrl = https://8080-marcoweb-apiprojetomode-ztftwwgsz8c.ws-us110.gitpod.io
+
+### 
+POST {{baseUrl}}/auth
+Content-Type: application/json
+
+{
+    "nomeDeUsuario": "user",
+    "senha" : "123456"
+}
