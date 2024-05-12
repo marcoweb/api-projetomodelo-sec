@@ -1,0 +1,6 @@
+PUT https://8080-marcoweb-j2projetomodel-hfpuplkv68p.ws-us110.gitpod.io/categorias/1
+Content-Type: application/json
+
+{
+    "nome": "Conhecimentos Gerais"
+}

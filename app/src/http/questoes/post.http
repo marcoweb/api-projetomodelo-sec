@@ -1,0 +1,7 @@
+POST https://8080-marcoweb-j2projetomodel-rya3pcfv47n.ws-us110.gitpod.io/questoes
+Content-Type: application/json
+
+{
+    "enunciado" : "Questão de Teste 2",
+    "categoria" : {"id" : 1}
+}

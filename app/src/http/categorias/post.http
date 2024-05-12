@@ -1,0 +1,6 @@
+POST https://8080-marcoweb-j2projetomodel-rya3pcfv47n.ws-us110.gitpod.io/categorias
+Content-Type: application/json
+
+{
+    "nome": "Conhecimentos Gerais"
+}
